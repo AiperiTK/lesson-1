@@ -1,0 +1,43 @@
+открывающий закрывающий тег или элемент
+открывающий тег
+
+tag 
+atribut
+
+shift + 1 >> ! enter
+shift + 1 >> ! enter
+html:5 enter 
+contrl + ?  comment
+contrl + V вставить
+contrl + С копирование
+contrl + x вырезать
+contrl + z назад
+shift + contrl + f format code windows
+shift + option + f format code macbook
+
+tags 
+h1 6 lvl
+p -> абзац
+strong ->  жирный
+i ->  курсивный
+small -> маленький
+b -> bold
+a - гипертек ссылка
+
+attributs 
+a -> href для ссылка
+a -> target _blank для ссылка
+
+блочный теги 
+h1
+p
+ul 
+li
+
+строчный тег
+small
+i
+b 
+small
+a
+
